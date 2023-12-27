@@ -47,7 +47,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(382, 296);
+            this.ClientSize = new System.Drawing.Size(318, 284);
             this.Controls.Add(this.button1);
             this.Name = "Form2";
             this.Text = "Крестики нолики";
